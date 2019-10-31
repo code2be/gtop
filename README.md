@@ -1,6 +1,6 @@
 # gtop
 
-![screen record](https://raw.githubusercontent.com/aksakalli/gtop/master/img/gtop_updated_demo.gif)
+![screen record](https://raw.githubusercontent.com/code2be/gtop/master/img/gtop_updated_demo.gif)
 
 System monitoring dashboard for terminal.
 
